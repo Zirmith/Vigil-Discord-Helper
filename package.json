@@ -1,0 +1,30 @@
+{
+  "name": "Vigil-Discord-Helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zirmith/Vigil-Discord-Helper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zirmith/Vigil-Discord-Helper/issues"
+  },
+  "homepage": "https://github.com/Zirmith/Vigil-Discord-Helper#readme",
+  "dependencies": {
+    "devtron": "^1.4.0",
+    "electron": "^24.1.0",
+    "electron-reload": "^2.0.0-alpha.1",
+    "electron-updater": "^5.3.0",
+    "jquery.terminal": "^2.35.3",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  }
+}
